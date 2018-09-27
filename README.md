@@ -1,5 +1,7 @@
 # react-snap-svg
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/janryWang/react-snap-svg.svg)](https://greenkeeper.io/)
+
 
 ### Usage
 
